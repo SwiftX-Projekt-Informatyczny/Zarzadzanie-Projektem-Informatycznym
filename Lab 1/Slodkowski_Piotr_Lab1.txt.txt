@@ -1,0 +1,6 @@
+Rozpoczęłem praktyki w których moim zadaniem było utworzenie aplikacji internetowej. W ciągu pierwszych trzech tygodni zrobiłem większą cześć projektu.
+Jednak z uwagi na przyzwyczajenie nie uploadowałem niedokończonego projektu na GitLaba.
+Zemściło się to na mnie w momencie w którym wysiadł mi dysk. Wyłączyłem komputer i już nie włączyłem.
+Sprawiło to że 3 tygodnie pracy leżą w szafce na uszkodzonym ssd, a ja musiałem stworzyć projekt na nowo, zarywając kilka nocek.
+
+Wniosek: Warto tworzyć kopię zapasową na oddzielnym dysku na taki wypadek, inaczej może to się źle skończyć.
