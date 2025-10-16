@@ -14,3 +14,11 @@
 - dostęp do internetu
 
 # Lab 4 - SwiftX 3 Poziom TLR (metodologia Prince2)
+
+### Zadanie 1
+
+- x
+
+### Zadanie 2
+
+- x
