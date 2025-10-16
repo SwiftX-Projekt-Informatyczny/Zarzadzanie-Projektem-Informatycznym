@@ -17,8 +17,21 @@
 
 ### Zadanie 1
 
-- x
+- moduł symulacji fizyki - w ramach tego modułu silnik będzie odpowiadał za realistyczną symulację obiektów w wirtualnym świecie gry
+- moduł renderowania - silnik będzie posiadał algorytmy renderujące które będą odpowiedzialne za wyświetlanie grafiki 3D w czasie rzeczywistym
+- moduł sterowania - moduł będzie odpowiadał za nawigację zarówno po programie jak i po świecie gry
+- moduł optymalizacji zasobów - silnik będzie zarządzał dostępnymi zasobami (CPU, GPU, RAM) oraz dynamicznym przydzielaniem i ładowaniem tych zasobów
+- moduł synchronizacji grafiki i fizyki - moduł będzie odpowiedzialny za synchronizację obliczeń wraz z renderowaniem grafiki aby wynikiem był płynna gra bez zakłóceń
+- moduł analizy wydajności - system będzie monitorował wydajność programu aby porzygotować silnik do pomiarów wydajności i optymalizacji
 
-### Zadanie 2
+### Zadanie 2 (Może być na kolokwium)
+Oczywiście! Oto skrócone wersje poszczególnych pryncypiów metodyki PRINCE2:
 
-- x
+- Ciągła zasadność biznesowa – Systematyczna weryfikacja sensu projektu i kontrola ryzyk, aby upewnić się, że projekt ma uzasadnienie biznesowe.
+- Zdefiniowane role i odpowiedzialności – Jasne określenie ról, obowiązków i zakresu decyzyjnego, przy czym kierownik projektu nie może łączyć swojej roli z rolą w komitecie sterującym.
+- Koncentracja na produktach – Skupienie na dostarczeniu określonego produktu, zaczynając od jego definicji i ustalając kryteria jakości.
+- Korzystanie z doświadczeń – Wykorzystanie zdobytych doświadczeń z innych projektów w celu poprawy realizacji bieżącego projektu.
+- Zarządzanie z wykorzystaniem tolerancji – Ustalanie granic tolerancji (czasu, kosztów, jakości, ryzyka) dla decyzji kierownika projektu.
+- Zarządzanie etapowe – Podział projektu na etapy, z kontrolą postępów i oceną zasadności biznesowej przed rozpoczęciem kolejnych etapów.
+- Dostosowanie do projektu w danym środowisku – Dopasowanie narzędzi, modelu i zasobów do specyfiki projektu i jego środowiska.
+
