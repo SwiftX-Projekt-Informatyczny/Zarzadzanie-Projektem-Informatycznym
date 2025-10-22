@@ -10,23 +10,21 @@
 ### Zadanie 2
 - 2x środowisko programisyczne Visual Studio Code
 - 2x komputer stacjonarny z wydajnymi kartami graficznymi (RTX 4070)
-- oprogramowanie do tworzenia dokumentacji
-- dostęp do internetu
+- Oprogramowanie do tworzenia dokumentacji
+- Dostęp do internetu
 
 # Lab 4 - SwiftX 3 Poziom TLR (metodologia Prince2)
 
 ### Zadanie 1
 
-- moduł symulacji fizyki - w ramach tego modułu silnik będzie odpowiadał za realistyczną symulację obiektów w wirtualnym świecie gry
-- moduł renderowania - silnik będzie posiadał algorytmy renderujące które będą odpowiedzialne za wyświetlanie grafiki 3D w czasie rzeczywistym
-- moduł sterowania - moduł będzie odpowiadał za nawigację zarówno po programie jak i po świecie gry
-- moduł optymalizacji zasobów - silnik będzie zarządzał dostępnymi zasobami (CPU, GPU, RAM) oraz dynamicznym przydzielaniem i ładowaniem tych zasobów
-- moduł synchronizacji grafiki i fizyki - moduł będzie odpowiedzialny za synchronizację obliczeń wraz z renderowaniem grafiki aby wynikiem był płynna gra bez zakłóceń
-- moduł analizy wydajności - system będzie monitorował wydajność programu aby porzygotować silnik do pomiarów wydajności i optymalizacji
+- Moduł symulacji fizyki - w ramach tego modułu silnik będzie odpowiadał za realistyczną symulację obiektów w wirtualnym świecie gry
+- Moduł renderowania - silnik będzie posiadał algorytmy renderujące które będą odpowiedzialne za wyświetlanie grafiki 3D w czasie rzeczywistym
+- Moduł sterowania - moduł będzie odpowiadał za nawigację zarówno po programie jak i po świecie gry
+- Moduł optymalizacji zasobów - silnik będzie zarządzał dostępnymi zasobami (CPU, GPU, RAM) oraz dynamicznym przydzielaniem i ładowaniem tych zasobów
+- Moduł synchronizacji grafiki i fizyki - moduł będzie odpowiedzialny za synchronizację obliczeń wraz z renderowaniem grafiki aby wynikiem był płynna gra bez zakłóceń
+- Moduł analizy wydajności - system będzie monitorował wydajność programu aby porzygotować silnik do pomiarów wydajności i optymalizacji
 
-### Zadanie 2 (Może być na kolokwium)
-Oczywiście! Oto skrócone wersje poszczególnych pryncypiów metodyki PRINCE2:
-
+### Zadanie 2
 - Ciągła zasadność biznesowa – Systematyczna weryfikacja sensu projektu i kontrola ryzyk, aby upewnić się, że projekt ma uzasadnienie biznesowe.
 - Zdefiniowane role i odpowiedzialności – Jasne określenie ról, obowiązków i zakresu decyzyjnego, przy czym kierownik projektu nie może łączyć swojej roli z rolą w komitecie sterującym.
 - Koncentracja na produktach – Skupienie na dostarczeniu określonego produktu, zaczynając od jego definicji i ustalając kryteria jakości.
