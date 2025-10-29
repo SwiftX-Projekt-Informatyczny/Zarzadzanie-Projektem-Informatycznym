@@ -4,7 +4,9 @@ produktu – czyli jak chciałbyś go sprzedawad, kto będzie klientem, ile szac
 
 Grupą docelową byliby programiści skupiający się na tworzeniu gier komputerowych lub animacji 3D oraz studia developerskie zajmujące się tematami powiązanymi z grami, animacjami oraz symulacjami.
 
-Model biznesowy - sam silnik będzie płatny jednorazowo: dostępna będzie darmowa opcja próbna na okres 7 dni w której użytkownicy będą mogli zapoznać się z silnikiem. 
-Po tym czasie konto zostanie zablokowane do momentu wykupienia licencji użytkowej na kopię tego programu.
+Model biznesowy - będą dostępne 3 możliwości użytkowania programu:
+- licencja darmowa - darmowa licencja nie pozwala na komercjalizację gotowego produktu
+- licencja prywatna - płatna, przeznaczona dla prywatnych użytkowników, pozwala na komercjalizację
+- licencja firmowa - j.w. ale przeznaczona dla firm i liczona od maszyny oraz w skali roku
 
 Jest to produkt dość specjalistyczny więc nie jest przewidywana ogromna baza użytkowników. Przy odpowiedniej reklamie przewidujemy ok. 1000 użytkowników w skali krajowej na kwartał.
