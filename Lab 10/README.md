@@ -108,16 +108,16 @@ Rozwiązanie: Przeinstalowanie systemów na posiadanych już obecnych maszynach 
 
 ## Zadanie 3
 1. Komitet Sterujący
-  - Odpowiada za strategiczny nadzór nad projektem. Podejmuje decyzje, które zatwierdzające zmiany, budżet, kierunek rozwoju i akceptuje produkty kolejnych etapów.
+    - Odpowiada za strategiczny nadzór nad projektem. Podejmuje decyzje, które zatwierdzające zmiany, budżet, kierunek rozwoju i akceptuje produkty kolejnych etapów.
 2. Kierownik Projektu
-  - Odpowiada za codzienne zarządzanie realizacją projektu, planowanie prac, kontrolę harmonogramu, kosztów i ryzyk. Zarządza komunikacją między zespołami oraz raportuje postępy komitetowi sterującemu.
+    - Odpowiada za codzienne zarządzanie realizacją projektu, planowanie prac, kontrolę harmonogramu, kosztów i ryzyk. Zarządza komunikacją między zespołami oraz raportuje postępy komitetowi sterującemu.
 3. Architekt Systemu
-  - Projektuje ogólną strukturę oprogramowania, dobiera technologie oraz dba o spójność modułów. Odpowiada za wydajność, skalowalność i integrację modułów.
+    - Projektuje ogólną strukturę oprogramowania, dobiera technologie oraz dba o spójność modułów. Odpowiada za wydajność, skalowalność i integrację modułów.
 4. Lead Developer
-  - Koordynuje pracę programistów. Nadzoruje implementację poszczególnych modułów i wspiera programistów w rozwiązywaniu problemów technicznych oraz dba o jakość kodu.
+    - Koordynuje pracę programistów. Nadzoruje implementację poszczególnych modułów i wspiera programistów w rozwiązywaniu problemów technicznych oraz dba o jakość kodu.
 5. Programista
-  - Implementuje funkcje silnika i jego moduły. Bierze udział w testach, analizuje wydajność i przygotowuje poprawki. Odpowiada za tworzenie kodu zgodnie ze standardami i wymaganiami projektu.
+    - Implementuje funkcje silnika i jego moduły. Bierze udział w testach, analizuje wydajność i przygotowuje poprawki. Odpowiada za tworzenie kodu zgodnie ze standardami i wymaganiami projektu.
 6. Tester Oprogramowania
-  - Odpowiadaja za projektowanie i wykonywanie testów: jednostkowych, integracyjnych, funkcjonalnych oraz obciążeniowych. Jego zadaniem jest znalezienie błędów, w szczególności w takich aspektach jak deterministyczność symulacji czy stabilność działania po długim czasie.
+    - Odpowiadaja za projektowanie i wykonywanie testów: jednostkowych, integracyjnych, funkcjonalnych oraz obciążeniowych. Jego zadaniem jest znalezienie błędów, w szczególności w takich aspektach jak deterministyczność symulacji czy stabilność działania po długim czasie.
 7. Specjalista DevOps
-  - Przygotowuje środowiska wytwórcze, automatyzuje proces kompilacji i wdrażania oraz konfigurują narzędzia CI/CD. Dba o wydajne działanie narzędzi testowych oraz procesów związanych z budową wersji silnika SwiftX na różne systemy operacyjne.
+    - Przygotowuje środowiska wytwórcze, automatyzuje proces kompilacji i wdrażania oraz konfigurują narzędzia CI/CD. Dba o wydajne działanie narzędzi testowych oraz procesów związanych z budową wersji silnika SwiftX na różne systemy operacyjne.
