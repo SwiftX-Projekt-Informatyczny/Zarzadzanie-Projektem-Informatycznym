@@ -79,8 +79,7 @@ Jest to produkt dość specjalistyczny więc nie jest przewidywana ogromna baza 
 -	Brak odpowiedniej promocji i marketingu produktu. (60%)
 
 # Lab 9 - SwiftX
-
-Zadanie 1
+## Zadanie 1
 
 Moduły silnika zostały zintegrowane, wprowadzając program w wersję beta oraz został on przygotowana do pierwszych testów jakościowych oraz obciążeniowych.
 Aplikacja zostanie przetestowana pod kątem kompatybilności z najczęściej używanych systemami operacyjnymi: Windows 10, 11, Linux, MacOS. 
@@ -95,32 +94,30 @@ Efekt końcowy:
 Zostanie otrzymana przetestowana aplikacja w warunkach odwzorowujących rzeczywiste. Ewentualne korekty zostaną nałożone. 
 Sposób działania aplikacji oraz użyteczność powinny na tym etapie zostać zrozumiane przez użytkowników, w takim stopniu aby aplikacja mogła opuścić wersję beta.
 
-Zadanie 2
-
+## Zadanie 2
 Ryzyko: Trudności ze znalezieniem odpowiednich maszyn do testowania ze względu na jakość 
 (wyszukiwanie maszyn wystarczająco mocnych aby w warunkach rzeczywistych sprawdzić działanie na silniejszym sprzęcie)
 Rozwiązanie: Przeinstalowanie systemów na posiadanych już obecnych maszynach lub Dual-Boot - wiele systemów na jednej maszynie.
 
+# Lab 10 - SwiftX
+## Zadanie 1
+<img width="841" height="323" alt="image" src="https://github.com/user-attachments/assets/509b6538-5320-4300-a369-3980291e0392" />
 
+## Zadanie 2
+<img width="679" height="931" alt="Diagram Struktury Organizacji" src="https://github.com/user-attachments/assets/83195373-a787-40a0-ae60-4012dd238831" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Zadanie 3
+1. Komitet Sterujący
+  - Odpowiada za strategiczny nadzór nad projektem. Podejmuje decyzje, które zatwierdzające zmiany, budżet, kierunek rozwoju i akceptuje produkty kolejnych etapów.
+2. Kierownik Projektu
+  - Odpowiada za codzienne zarządzanie realizacją projektu, planowanie prac, kontrolę harmonogramu, kosztów i ryzyk. Zarządza komunikacją między zespołami oraz raportuje postępy komitetowi sterującemu.
+3. Architekt Systemu
+  - Projektuje ogólną strukturę oprogramowania, dobiera technologie oraz dba o spójność modułów. Odpowiada za wydajność, skalowalność i integrację modułów.
+4. Lead Developer
+  - Koordynuje pracę programistów. Nadzoruje implementację poszczególnych modułów i wspiera programistów w rozwiązywaniu problemów technicznych oraz dba o jakość kodu.
+5. Programista
+  - Implementuje funkcje silnika i jego moduły. Bierze udział w testach, analizuje wydajność i przygotowuje poprawki. Odpowiada za tworzenie kodu zgodnie ze standardami i wymaganiami projektu.
+6. Tester Oprogramowania
+  - Odpowiadaja za projektowanie i wykonywanie testów: jednostkowych, integracyjnych, funkcjonalnych oraz obciążeniowych. Jego zadaniem jest znalezienie błędów, w szczególności w takich aspektach jak deterministyczność symulacji czy stabilność działania po długim czasie.
+7. Specjalista DevOps
+  - Przygotowuje środowiska wytwórcze, automatyzuje proces kompilacji i wdrażania oraz konfigurują narzędzia CI/CD. Dba o wydajne działanie narzędzi testowych oraz procesów związanych z budową wersji silnika SwiftX na różne systemy operacyjne.
