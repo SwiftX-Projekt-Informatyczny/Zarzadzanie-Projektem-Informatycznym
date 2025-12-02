@@ -131,6 +131,7 @@ Rozwiązanie: Przeinstalowanie systemów na posiadanych już obecnych maszynach 
 2. Zakładany efekt końcowy VII poziomu gotowości technologii obejmuje następujące rezultaty:
     - Zwalidowany prototyp silnika SwiftX działający stabilnie w warunkach operacyjnych u zewnętrznych deweloperów.
     - Potwierdzenie poprawności algorytmu w ekstremalnych warunkach, stworzonych przez testerów.
+
 Efektem końcowym będzie osiągnięcie VII poziomu gotowości technologicznej. Nastąpi demonstracja prototypu technologii w warunkach operacyjnych poprzez testy na rzeczywistych projektach gier i symulacji.
 
 ## Zadanie 2
@@ -141,6 +142,7 @@ Efektem końcowym będzie osiągnięcie VII poziomu gotowości technologicznej. 
 2. Zakładany efekt końcowy VIII poziomu gotowości technologii obejmuje następujące rezultaty:
     - Gotowa, kompletna wersja silnika SwiftX spełniająca wszystkie założenia wydajnościowe i funkcjonalne zdefiniowane w metryce produktu.
     - Zatwierdzona dokumentacja techniczna i szkoleniowa umożliwiająca samodzielną pracę z silnikiem.
+
 Efektem końcowym będzie osiągnięcie VIII poziomu gotowości technologicznej. Nastąpi potwierdzenie, że docelowy poziom technologii został osiągnięty, a silnik działa poprawnie w przewidywanych warunkach końcowego zastosowania.
 
 ## Zadanie 3
@@ -152,4 +154,5 @@ Efektem końcowym będzie osiągnięcie VIII poziomu gotowości technologicznej.
 2. Zakładany efekt końcowy IX poziomu gotowości technologii obejmuje następujące rezultaty:
     - Produkt SwiftX gotowy do pobrania i komercyjnego wdrażania w studiach deweloperskich.
     - Pełna funkcjonalność systemów wsparcia, aktualizacji i licencjonowania.
+
 Efektem końcowym będzie osiągnięcie IX poziomu gotowości technologicznej. Nastąpi potwierdzenie, że technologia w warunkach rzeczywistych odniosła zamierzony efekt i może zostać wykorzystana komercyjnie. Organizacja przejdzie do realizacji komponentu wdrożeniowego.
